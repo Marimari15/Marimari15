@@ -1,16 +1,13 @@
-## Hi there 👋
+Oii, eu sou a Mari! 👋
 
-<!--
-**Marimari15/Marimari15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou aluna do Alura, me desenvolvendo na área do JavaScript ( muito legal, eu sei 😌 ) 
 
-Here are some ideas to get you started:
+Utilizo essa ferramenta para criar e organizar meus projetos! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Para entrar em contato comigo, segue abaixo : 
+
+ @00001103983660sp@al.educacao.sp.gov.br 
+
+
+
